@@ -1,2 +1,2 @@
 function display(){
-  var data = new FormData();}
+  var data = new FormData(a);}
